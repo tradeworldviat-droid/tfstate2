@@ -3,6 +3,6 @@ resource "aws_instance" "example" {
   instance_type = "t3.micro"
 
   tags = {
-            Name = "New test Instance test requirement check"
+            Name = "now test with Dynamo DB"
   }
 }
